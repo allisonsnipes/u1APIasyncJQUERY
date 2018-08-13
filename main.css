@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+input, button{
+    background-color: aliceblue; /* how come colors */
+}
+
+#input {
+    display: block;
+    width: 50%;
+    float: left;
+    background-color: aliceblue;
+}
+
+#button{
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    background-color: aliceblue;
+}
